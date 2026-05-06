@@ -1,30 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee7c59dd-d0c9-4e73-813a-98d5a4d8fdc1" name="Changes" comment="" />
+    <list default="true" id="ee7c59dd-d0c9-4e73-813a-98d5a4d8fdc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/create_group.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/group_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/group_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/my_orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/order_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/order_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/payment_success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickbite_project/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quickbite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quickbite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/accounts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/accounts/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/accounts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/accounts/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/accounts/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/accounts/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/group_order/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/group_order/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/group_order/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/group_order/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/group_order/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/group_order/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/group_order/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/group_order/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/group_order/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/menu/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/menu/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/menu/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/menu/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/menu/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/orders/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/orders/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/orders/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/orders/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/orders/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/orders/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/orders/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/orders/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/orders/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/quickbite_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/quickbite_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickbite_project/quickbite_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/quickbite_project/quickbite_project/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/quickbite_project" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;monsizatasnim&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/monsizatasnim/quickbite.git&quot;,
+    &quot;accountId&quot;: &quot;543074b0-241b-4322-8928-b2e5c72dadb6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3DDjW2WggmeBQqsOwx9fWvGB9zb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -41,5 +106,16 @@
       <updated>1777823562699</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
